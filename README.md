@@ -1,6 +1,6 @@
 ﻿![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
-#TESTES DE GIT! Sérgio Ferreira.
+# TESTES DE GIT! Sérgio Ferreira. :checkered_flag:
 
 <dl>
   <dt>Primeiros Testes</dt>
@@ -61,7 +61,7 @@ mojombo/github-flavored-markdown#1
 
 @kaizukadev
 
-http://www.umencanto.com.com/
+http://www.umencanto.com/
 
 ~~Strikethrough~~
 
