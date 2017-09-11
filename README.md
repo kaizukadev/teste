@@ -75,10 +75,13 @@ Emoji  :facepunch: :clap: :fu: :ok_hand: :closed_lock_with_key:
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-** Link para vídeo no _Youtube_ sobre Git: **
+<dl>
+  <dt>No YouTube</dt>
+  <dd>**Link para vídeo no _Youtube_ sobre Git:**</dd>
+</dl>
 
 <a href="https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0" target="_blank"><img src="http://img.youtube.com/vi/WVLhm1AMeYE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Video sobre Git" width="240" height="180" border="10" /></a>
 
 
 
