@@ -3,9 +3,9 @@
 It's very easy to make some words **bold** and other words *italic* with Markdown. 
 You can even [link to Google!](http://google.com)
 
-# This is an h1 tag
-## This is an h2 tag
-###### This is an h6 tag
+# This is an `<h1>` tag
+## This is an `<h2>` tag
+###### This is an `<h6>` tag
 
 *This text will be italic*
 _This will also be italic_
@@ -21,7 +21,7 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
 As Kanye West said:
 
@@ -38,6 +38,39 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+16c999e8c71134401a78d4d46435517b2271d6ac
+
+mojombo/github-flavored-markdown#1
+
+@kaizukadev
+
+http://www.umencanto.com.com/
+
+~~Strikethrough~~
+
+Emoji  :facepunch: :clap: :fu: :ok_hand: :closed_lock_with_key:
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+
+
 
 
 
