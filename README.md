@@ -1,8 +1,6 @@
 ﻿![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
-# Testes de Git! Sérgio Ferreira. :checkered_flag:
-
-/play tada
+<center># Testes de Git! Sérgio Ferreira. :checkered_flag: </center>
 
 <dl>
   <dt>Primeiros Testes</dt>
@@ -76,6 +74,8 @@ Emoji  :facepunch: :clap: :fu: :ok_hand: :closed_lock_with_key:
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
+---
 
 <dl>
   <dt>No YouTube</dt>
