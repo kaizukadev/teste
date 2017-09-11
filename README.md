@@ -1,4 +1,11 @@
-﻿#TESTES DE GIT! Sérgio Ferreira.
+﻿![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
+
+#TESTES DE GIT! Sérgio Ferreira.
+
+<dl>
+  <dt>Primeiros Testes</dt>
+  <dd>Neste momento não há grandes preocupações com o resultado final.<br>
+      Apenas experimentamos para ver o que acontece.</dd>
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. 
 You can even [link to Google!](http://google.com)
@@ -21,7 +28,6 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 
-![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
 As Kanye West said:
 
