@@ -1,8 +1,8 @@
 ﻿![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
-<center>
+<p align="center">
 # Testes de Git! Sérgio Ferreira. :checkered_flag: 
-</center>
+</p>
 
 <dl>
   <dt>Primeiros Testes</dt>
